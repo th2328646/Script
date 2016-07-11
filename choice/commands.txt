@@ -1,0 +1,4 @@
+mkdir /root/temp
+mv /home/apache-tomcat-8.0.32.tar.gz /root/temp
+mv /home/jdk-8u73-linux-x64.rpm /root/temp
+python /home/script.py
